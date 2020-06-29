@@ -1,2 +1,2 @@
-# shear_analysis_results
-HTML results of shear analysis
+# shear analysis results
+This repository contains the analysis done on the output of dmstack.
