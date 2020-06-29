@@ -1,7 +1,7 @@
 All the contents below directs to raw html. 
 To see the rendered html click on 
 <a style="color:blue;"
-href="https://bprsh.github.io/shear_analysis_results.html"
+href="https://bprsh.github.io/shear_analysis_results/"
 target="_blank">
 this link.
 </a>
