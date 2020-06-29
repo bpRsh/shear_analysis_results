@@ -1,6 +1,10 @@
-<h1>  All the contents below directs to raw html. 
-To see the rendered html click on <a style="color:blue;" href="https://bprsh.github.io/shear_analysis_results.html"
-target="_blank"> this link. </a>
+All the contents below directs to raw html. 
+To see the rendered html click on 
+<a style="color:blue;"
+href="https://bprsh.github.io/shear_analysis_results.html"
+target="_blank">
+this link.
+</a>
 
 <h1> June 23: ngals=5k z=0.5 </h1>
 <h4><a style="color:blue;"
